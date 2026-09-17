@@ -1,0 +1,26 @@
+[
+    {
+        "reservation_id": 2,
+        "amount": 840,
+        "status": "paid",
+        "id": 1
+    },
+    {
+        "reservation_id": 3,
+        "amount": 10880,
+        "status": "paid",
+        "id": 2
+    },
+    {
+        "reservation_id": 4,
+        "amount": 170940,
+        "status": "paid",
+        "id": 3
+    },
+    {
+        "reservation_id": 5,
+        "amount": 1280,
+        "status": "paid",
+        "id": 4
+    }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "name": "Sofia Martins",
+    "photo": "https://images.unsplash.com/photo-1544723795-3fb6469f5b39?auto=format&fit=crop&w=400&q=80",
+    "rating": 5,
+    "comment": "Experiência impecável, luxo e conforto em todos os detalhes."
+  }
+]-0[
+  {
+    "id": 2,
+    "name": "Miguel Oliveira",
+    "photo": "https://images.unsplash.com/photo-1508214751196-bcfd4ca60f91?auto=format&fit=crop&w=400&q=80",
+    "rating": 4,
+    "comment": "Ótimo serviço, mas o café da manhã poderia ser mais variado."
+  }
+]-0[
+  {
+    "id": 3,
+    "name": "Isabela Costa",
+    "photo": "https://images.unsplash.com/photo-1508214751196-bc    fd4ca60f91?auto=format&fit=crop&w=400&q=80",
+    "rating": 5,
+    "comment": "A vista do quarto era deslumbrante, superou minhas expectativas!"
+  }
+]           
+

@@ -1,0 +1,37 @@
+[
+    {
+        "id": 1,
+        "name": "Admin Premium",
+        "email": "admin@hotel.com",
+        "password": "$2y$10$pENUZ9sg19FsuFK2FVbCLuEdueDPb0VXnunxZwBb\/zf6BM4OvgLQi",
+        "role": "admin"
+    },
+    {
+        "id": 2,
+        "name": "João Cliente",
+        "email": "cliente@hotel.com",
+        "password": "$2y$10$dHc1j9Z7gEsJ8slz3aXgE.BD1\/t\/mfYB\/q\/zgIHfgzG2Db0fwz1V6",
+        "role": "client"
+    },
+    {
+        "name": "zunga pires",
+        "email": "zungapires33@gmail.com",
+        "password": "$2y$10$v6R6Phro3bdo5yoKJQm6regvDkDyycevJ.BBngSXfrF3dEDaCMLcC",
+        "role": "client",
+        "id": 3
+    },
+    {
+        "name": "zunga pires",
+        "email": "zungapires077@gmail.com",
+        "password": "$2y$10$hsomHz5R72V.rochS87IGunYtXw0UpN0Js6y5xe7RtaD5ZN5kh732",
+        "role": "client",
+        "id": 4
+    },
+    {
+        "name": "americo",
+        "email": "americobobo76@gmail.com",
+        "password": "$2y$10$oDXLcJCw9WgCy8oQUqtPguDeYz3vbR.QhSIQx.rJTt4.VP9nHFeRC",
+        "role": "client",
+        "id": 5
+    }
+]
